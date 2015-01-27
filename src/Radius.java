@@ -1,0 +1,3 @@
+interface Radius {
+	double call();
+}
